@@ -1,2 +1,1 @@
-# Exploratory-Data-Analysis
-Exploratory Data Analysis covers statistical principles supporting the data analytics life cycle
+Exploratory Data Analysis covers statistical principles supporting the data analytics life cycle. In this project, I computed and interpreted measures of central tendency, correlations, and variation. I also used hypothesis testing, focusing on application for parametric tests.
